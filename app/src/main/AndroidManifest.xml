@@ -3,6 +3,7 @@
     package="moe.minori.autonowplaying">
 
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="palette.twitter.externalBroadcast"/>
 
     <application
         android:allowBackup="true"
