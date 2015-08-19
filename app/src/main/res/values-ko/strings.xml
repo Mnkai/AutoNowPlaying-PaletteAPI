@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoNowPlaying 설정</string>
+    <string name="enabledModule">플러그인 활성화</string>
+    <string name="enabledModuleSummary">자동으로 휴대전화에서 재생되는 음악을 트위터로 송출 할 지 설정합니다.</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoNowPlaying Setting</string>
+    <string name="enabledModule">Enable Plugin</string>
+    <string name="enabledModuleSummary">Enable plugin to tweet current playing track\'s name automatically.</string>
+</resources>
